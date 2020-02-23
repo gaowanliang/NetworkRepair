@@ -1,0 +1,3 @@
+([('main',
+   '/Users/gaowanliang/Desktop/未命名文件夹/Mac OS/dist/main',
+   'EXECUTABLE')],)

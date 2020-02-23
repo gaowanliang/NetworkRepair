@@ -1,0 +1,1 @@
+如果发现上网出现异常，请将data文件夹里的host.bak改名为hosts，替换/etc/里的hosts即可恢复正常。
